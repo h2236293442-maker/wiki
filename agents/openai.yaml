@@ -1,0 +1,6 @@
+interface:
+  display_name: "项目 Wiki 速建"
+  short_description: "为代码仓库生成证据驱动的项目 Wiki 和上手地图"
+  default_prompt: "Use $wiki to create an evidence-backed PROJECT_WIKI.md for this repository."
+policy:
+  allow_implicit_invocation: true
